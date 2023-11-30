@@ -7,7 +7,7 @@ public class SimpleJavaApp {
         System.out.println("Welcome to Simple Java App!");
         System.out.print("Please enter your name: ");
         
-        String name = scanner.nextLine();
+        String name = "Amrit";
         
         System.out.println("Hello, " + name + "! Welcome to your Java application.");
         scanner.close();
